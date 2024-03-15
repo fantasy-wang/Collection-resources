@@ -6,3 +6,6 @@
 
 ### 办公类：
 #### Excel表格工具：[Excel插件](https://yyb.excelhome.net/)
+
+### Office类：
+#### Microsoft Office [Mac安装文件](https://github.com/alsyundawy/Microsoft-Office-For-MacOS?tab=readme-ov-file)
