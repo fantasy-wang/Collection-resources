@@ -19,6 +19,7 @@
         -> WHERE id = 'aaa'
         -> ;
     ERROR 1292 (22007): Truncated incorrect DOUBLE value: 'aaa'
+    
     [30 Aug 2021 12:30] MySQL Verification Team
     Hi Mr. Mmmmmm,
     
